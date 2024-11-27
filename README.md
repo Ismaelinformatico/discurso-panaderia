@@ -1,22 +1,23 @@
 # discurso-panaderia
-v1 universo.discurso.comienzo
-El universo es una panadería. De los clientes se conocen los datos habituales, también de los productos, de los empleados y de las ventas. Un producto puede ser pedido por un cliente.
+
+v1 universo.discurso.comienzo 
+El universo es una panadería. De los clientes se conocen los datos habituales, también de los productos, de los empleados y de las ventas. Un producto puede ser pedido por un cliente. 
 
 universo.discurso.fin
 
 #---------------------------------------------------
 
-v2 universo.discurso.comienzo
-cliente: se conocen los datos habituales,
-producto: se conocen los datos habituales,
-empleado: se conocen los datos habituales,
-venta: se conocen los datos habituales, Un producto puede ser pedido por un cliente.
+v2 universo.discurso.comienzo 
+cliente: se conocen los datos habituales, 
+producto: se conocen los datos habituales, 
+empleado: se conocen los datos habituales, 
+venta: se conocen los datos habituales, Un producto puede ser pedido por un cliente. 
 
-universo.discurso.fin
+universo.discurso.fin 
 
 #---------------------------------------------------
 
-v3 universo.discurso.comienzo
+v3 universo.discurso.comienzo 
 panadería (de productos de panadería)
 cliente (nombre, apellido, dni, teléfono, dirección,...)
 producto (nombre, descripción, precio, cantidad disponible, fecha de caducidad,...)
